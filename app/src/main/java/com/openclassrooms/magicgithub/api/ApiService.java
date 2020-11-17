@@ -4,7 +4,7 @@ import com.openclassrooms.magicgithub.model.User;
 import java.util.List;
 import androidx.annotation.Nullable;
 
-// OBJ //
+
 public interface ApiService {
     List<User> getUsers();
     void generateRandomUser();

@@ -34,8 +34,6 @@ public class FakeApiService implements ApiService {
     public void generateRandomUser() {
         // TODO: A modifier
 
-        //User user = User.random();
-        //getUsers().add(user);
 
 
     }
@@ -45,9 +43,6 @@ public class FakeApiService implements ApiService {
      */
     @Override
     public void deleteUser(User user) {
-
-
-
         // TODO: A modifier
     }
 }

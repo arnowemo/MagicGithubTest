@@ -28,7 +28,6 @@ public class UserRepository {
     public void generateRandomUser() {
         // TODO: A modifier
 
-        //User user = User.random();
         apiService.getUsers().add(User.random());
 
 
