@@ -10,8 +10,7 @@ import java.util.List;
 
 public class UserRepository {
 
-    private final ApiService apiService; // TODO: A utiliser
-
+    private final ApiService apiService;
 
     public UserRepository(ApiService apiService) {
         this.apiService = apiService;
@@ -20,23 +19,21 @@ public class UserRepository {
 
 
     public List<User> getUsers() {
-        // TODO: A modifier
 
         return apiService.getUsers();
     }
 
     public void generateRandomUser() {
-        // TODO: A modifier
 
-        apiService.getUsers().add(User.random());
+        apiService.generateRandomUser();
 
 
 
     }
 
     public void deleteUser(User user) {
-        // TODO: A modifier
-        apiService.getUsers().remove(0);
+
+        apiService.deleteUser(user);
 
 
 
