@@ -11,7 +11,7 @@ public class FakeApiService implements ApiService {
 
     private List<User> users = generateUsers();
 
-    /**
+    /*
      * Retourne une liste d'utilisateurs
      * les utilisateurs sont générés par FakeApiServiceGenerator
      */
@@ -22,7 +22,7 @@ public class FakeApiService implements ApiService {
 
     }
 
-    /**
+    /*
      * Génére un utilisateur aléatoire et l'ajoute a la liste users.
      * Cet utilisateur provient de la liste FAKE_USERS_RANDOM.
      */
@@ -33,7 +33,7 @@ public class FakeApiService implements ApiService {
 
     }
 
-    /**
+    /*
      * Supprime un utilisateur de la liste users.
      */
     @Override

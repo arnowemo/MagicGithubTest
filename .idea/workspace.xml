@@ -7,9 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b458eb9b-6003-48fa-9d87-f1fb3cbb3643" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_8_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_8_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/openclassrooms/magicgithub/api/FakeApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/openclassrooms/magicgithub/api/FakeApiService.java" afterDir="false" />
     </list>
@@ -272,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606926576707</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commentaires">
+      <created>1606928451187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606928451187</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -301,9 +305,10 @@
     </state>
     <state x="-1040" y="311" key="#xdebugger.XInspectDialog/-1920.23.1920.1057/0.23.1440.797@-1920.23.1920.1057" timestamp="1604366631754" />
     <state x="660" y="240" key="#xdebugger.XInspectDialog/0.23.1440.797@0.23.1440.797" timestamp="1604683461260" />
-    <state x="-1908" y="1" key="CommitChangelistDialog2" timestamp="1606926575903">
+    <state x="-1908" y="1" key="CommitChangelistDialog2" timestamp="1606928450497">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="-1908" y="1" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1606928450497" />
     <state x="-1908" y="1" key="CommitChangelistDialog2/-1920.0.1920.1080/0.23.1440.877@-1920.0.1920.1080" timestamp="1606926575903" />
     <state x="9" y="1" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1606909574743" />
     <state x="9" y="24" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1605637844365" />
