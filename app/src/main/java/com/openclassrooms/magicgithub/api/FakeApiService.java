@@ -23,7 +23,7 @@ public class FakeApiService implements ApiService {
     }
 
     /*
-     * Génére un utilisateur aléatoire et l'ajoute a la liste users.
+     * Génére un utilisateur aléatoire et l'ajoute à la liste users.
      * Cet utilisateur provient de la liste FAKE_USERS_RANDOM.
      */
     @Override
