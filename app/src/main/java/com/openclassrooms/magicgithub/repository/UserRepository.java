@@ -21,6 +21,7 @@ public class UserRepository {
     public List<User> getUsers() {
 
         return apiService.getUsers();
+
     }
 
     public void generateRandomUser() {
