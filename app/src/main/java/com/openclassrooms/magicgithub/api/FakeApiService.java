@@ -31,8 +31,6 @@ public class FakeApiService implements ApiService {
 
         getUsers().add(User.random());
 
-
-
     }
 
     /**

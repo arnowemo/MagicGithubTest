@@ -30,7 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
-  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$/../../../../code/test/Finaux" userTempatePath="" />
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$/../../../../code/test" userTempatePath="" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -289,9 +289,10 @@
     </state>
     <state x="-1040" y="311" key="#xdebugger.XInspectDialog/-1920.23.1920.1057/0.23.1440.797@-1920.23.1920.1057" timestamp="1604366631754" />
     <state x="660" y="240" key="#xdebugger.XInspectDialog/0.23.1440.797@0.23.1440.797" timestamp="1604683461260" />
-    <state x="9" y="24" key="CommitChangelistDialog2" timestamp="1605637844365">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="9" y="1" key="CommitChangelistDialog2" timestamp="1606909500280">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="9" y="1" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1606909500280" />
     <state x="9" y="24" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1605637844365" />
     <state width="499" height="466" key="DebuggerActiveHint" timestamp="1605045949334">
       <screen x="0" y="23" width="1440" height="797" />

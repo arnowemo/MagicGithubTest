@@ -27,15 +27,11 @@ public class UserRepository {
 
         apiService.generateRandomUser();
 
-
-
     }
 
     public void deleteUser(User user) {
 
         apiService.deleteUser(user);
-
-
 
     }
 }
